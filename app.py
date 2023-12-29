@@ -496,8 +496,8 @@ with Insight:
                 * Customers usually rents during Clear/Mist Weather sit.
                     * That will let us should follow the weather update.
             * Week Day & Hourly EDA:
-                * Casual has High Rents during Weekends (Usually be increasing from 7 AM till 10 AM & From 16 PM till 19 PM).
-                * Registered has High Rents during Working Days (Usually be increasing from 10 AM till 20 PM).
+                * Registered has High Rents during Weekends (Usually be increasing from 7 AM till 10 AM & From 16 PM till 19 PM).
+                * Casual has High Rents during Working Days (Usually be increasing from 10 AM till 20 PM).
                     * That’s mean: registered Customers may use the bikes during going to Work/School, and Casual may use the bikes for fun/sports.
                     * Also this will help us for the distribution type of bikes to help customers and keep satisfaction.""")
 # ______________________________________________________________________________________________________________________________________________________________________________________________________
