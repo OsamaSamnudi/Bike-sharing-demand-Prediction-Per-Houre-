@@ -11,8 +11,8 @@ there are about over 500 bike-sharing programs around the world which is compose
 Bike-sharing programs are becoming more and more popular in recent Today,.
 
 ✔️ Insights:
-✔️ Overall: Casual is less than registered in the two years.
-🔻 That can help us in (Operations Capacity, Cost, Budgeting, etc.) Planning to Considerate to increase about 40% to 60% as Casual rate from Register Daily/Monthly/Yearly Rate.
+* ✔️ Overall: Casual is less than registered in the two years.
+* 🔻 That can help us in (Operations Capacity, Cost, Budgeting, etc.) Planning to Considerate to increase about 40% to 60% as Casual rate from Register Daily/Monthly/Yearly Rate.
 ✔️ Seasons: Fall reach 31% of Avg Total Rents, then summer 27%, Then Winter 26%.
 🔻 Than can help us during distribute the Manpower, Costs, and Purchasing Maintenance/Renewals OPS to be in the right time to avoid any disagreement with Customers requirements.
 ✔️ Months: Usually Dec & Jan are the low rents, and from May to Oct are the High rents, but from Feb to Apr + Nov are mean.
